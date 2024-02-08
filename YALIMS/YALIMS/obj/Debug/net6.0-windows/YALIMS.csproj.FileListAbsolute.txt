@@ -1,0 +1,136 @@
+C:\Users\princ\source\repos\YALIMS\YALIMS\obj\Debug\net6.0-windows\YALIMS.csproj.AssemblyReference.cache
+C:\Users\princ\source\repos\YALIMS\YALIMS\obj\Debug\net6.0-windows\YALIMS.Add_marks.resources
+C:\Users\princ\source\repos\YALIMS\YALIMS\obj\Debug\net6.0-windows\YALIMS.admin_dashbord.resources
+C:\Users\princ\source\repos\YALIMS\YALIMS\obj\Debug\net6.0-windows\YALIMS.LoginStudent.resources
+C:\Users\princ\source\repos\YALIMS\YALIMS\obj\Debug\net6.0-windows\YALIMS.LoginAdmin.resources
+C:\Users\princ\source\repos\YALIMS\YALIMS\obj\Debug\net6.0-windows\YALIMS.Manage_marks.resources
+C:\Users\princ\source\repos\YALIMS\YALIMS\obj\Debug\net6.0-windows\YALIMS.Manage_students.resources
+C:\Users\princ\source\repos\YALIMS\YALIMS\obj\Debug\net6.0-windows\YALIMS.Manage_teachers.resources
+C:\Users\princ\source\repos\YALIMS\YALIMS\obj\Debug\net6.0-windows\YALIMS.Manage_users.resources
+C:\Users\princ\source\repos\YALIMS\YALIMS\obj\Debug\net6.0-windows\YALIMS.Newstudent.resources
+C:\Users\princ\source\repos\YALIMS\YALIMS\obj\Debug\net6.0-windows\YALIMS.New_teacher.resources
+C:\Users\princ\source\repos\YALIMS\YALIMS\obj\Debug\net6.0-windows\YALIMS.New_user.resources
+C:\Users\princ\source\repos\YALIMS\YALIMS\obj\Debug\net6.0-windows\YALIMS.Properties.Resources.resources
+C:\Users\princ\source\repos\YALIMS\YALIMS\obj\Debug\net6.0-windows\YALIMS.SelectLogin.resources
+C:\Users\princ\source\repos\YALIMS\YALIMS\obj\Debug\net6.0-windows\YALIMS.csproj.GenerateResource.cache
+C:\Users\princ\source\repos\YALIMS\YALIMS\obj\Debug\net6.0-windows\YALIMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\princ\source\repos\YALIMS\YALIMS\obj\Debug\net6.0-windows\YALIMS.AssemblyInfoInputs.cache
+C:\Users\princ\source\repos\YALIMS\YALIMS\obj\Debug\net6.0-windows\YALIMS.AssemblyInfo.cs
+C:\Users\princ\source\repos\YALIMS\YALIMS\obj\Debug\net6.0-windows\YALIMS.csproj.CoreCompileInputs.cache
+C:\Users\princ\source\repos\YALIMS\YALIMS\bin\Debug\net6.0-windows\YALIMS.exe
+C:\Users\princ\source\repos\YALIMS\YALIMS\bin\Debug\net6.0-windows\YALIMS.deps.json
+C:\Users\princ\source\repos\YALIMS\YALIMS\bin\Debug\net6.0-windows\YALIMS.runtimeconfig.json
+C:\Users\princ\source\repos\YALIMS\YALIMS\bin\Debug\net6.0-windows\YALIMS.dll
+C:\Users\princ\source\repos\YALIMS\YALIMS\bin\Debug\net6.0-windows\ref\YALIMS.dll
+C:\Users\princ\source\repos\YALIMS\YALIMS\bin\Debug\net6.0-windows\YALIMS.pdb
+C:\Users\princ\source\repos\YALIMS\YALIMS\obj\Debug\net6.0-windows\YALIMS.dll
+C:\Users\princ\source\repos\YALIMS\YALIMS\obj\Debug\net6.0-windows\ref\YALIMS.dll
+C:\Users\princ\source\repos\YALIMS\YALIMS\obj\Debug\net6.0-windows\YALIMS.pdb
+C:\Users\princ\source\repos\YALIMS\YALIMS\obj\Debug\net6.0-windows\YALIMS.genruntimeconfig.cache
+C:\Users\princ\source\repos\YALIMS\YALIMS\obj\Debug\net6.0-windows\YALIMS.Student_Register.resources
+C:\Users\princ\source\repos\YALIMS\YALIMS\obj\Debug\net6.0-windows\YALIMS.StudentDashbord.resources
+C:\Users\princ\source\repos\YALIMS\YALIMS\obj\Debug\net6.0-windows\YALIMS.TeacherDashbord.resources
+C:\Users\princ\source\repos\YALIMS\YALIMS\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\princ\source\repos\YALIMS\YALIMS\obj\Debug\net6.0-windows\YALIMS.csproj.CopyComplete
+C:\Users\Ahmed\Desktop\YALIMS2\YALIMS\obj\Debug\net6.0-windows\YALIMS.csproj.AssemblyReference.cache
+C:\Users\Ahmed\Desktop\YALIMS2\YALIMS\obj\Debug\net6.0-windows\YALIMS.Add_marks.resources
+C:\Users\Ahmed\Desktop\YALIMS2\YALIMS\obj\Debug\net6.0-windows\YALIMS.admin_dashbord.resources
+C:\Users\Ahmed\Desktop\YALIMS2\YALIMS\obj\Debug\net6.0-windows\YALIMS.LoginStudent.resources
+C:\Users\Ahmed\Desktop\YALIMS2\YALIMS\obj\Debug\net6.0-windows\YALIMS.LoginAdmin.resources
+C:\Users\Ahmed\Desktop\YALIMS2\YALIMS\obj\Debug\net6.0-windows\YALIMS.Manage_marks.resources
+C:\Users\Ahmed\Desktop\YALIMS2\YALIMS\obj\Debug\net6.0-windows\YALIMS.Manage_students.resources
+C:\Users\Ahmed\Desktop\YALIMS2\YALIMS\obj\Debug\net6.0-windows\YALIMS.Manage_teachers.resources
+C:\Users\Ahmed\Desktop\YALIMS2\YALIMS\obj\Debug\net6.0-windows\YALIMS.Manage_users.resources
+C:\Users\Ahmed\Desktop\YALIMS2\YALIMS\obj\Debug\net6.0-windows\YALIMS.Newstudent.resources
+C:\Users\Ahmed\Desktop\YALIMS2\YALIMS\obj\Debug\net6.0-windows\YALIMS.New_teacher.resources
+C:\Users\Ahmed\Desktop\YALIMS2\YALIMS\obj\Debug\net6.0-windows\YALIMS.New_user.resources
+C:\Users\Ahmed\Desktop\YALIMS2\YALIMS\obj\Debug\net6.0-windows\YALIMS.Properties.Resources.resources
+C:\Users\Ahmed\Desktop\YALIMS2\YALIMS\obj\Debug\net6.0-windows\YALIMS.SelectLogin.resources
+C:\Users\Ahmed\Desktop\YALIMS2\YALIMS\obj\Debug\net6.0-windows\YALIMS.Student_Register.resources
+C:\Users\Ahmed\Desktop\YALIMS2\YALIMS\obj\Debug\net6.0-windows\YALIMS.StudentDashbord.resources
+C:\Users\Ahmed\Desktop\YALIMS2\YALIMS\obj\Debug\net6.0-windows\YALIMS.TeacherDashbord.resources
+C:\Users\Ahmed\Desktop\YALIMS2\YALIMS\obj\Debug\net6.0-windows\YALIMS.csproj.GenerateResource.cache
+C:\Users\Ahmed\Desktop\YALIMS2\YALIMS\obj\Debug\net6.0-windows\YALIMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmed\Desktop\YALIMS2\YALIMS\obj\Debug\net6.0-windows\YALIMS.AssemblyInfoInputs.cache
+C:\Users\Ahmed\Desktop\YALIMS2\YALIMS\obj\Debug\net6.0-windows\YALIMS.AssemblyInfo.cs
+C:\Users\Ahmed\Desktop\YALIMS2\YALIMS\obj\Debug\net6.0-windows\YALIMS.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed\Desktop\YALIMS2\YALIMS\obj\Debug\net6.0-windows\YALIMS.dll
+C:\Users\Ahmed\Desktop\YALIMS2\YALIMS\obj\Debug\net6.0-windows\ref\YALIMS.dll
+C:\Users\Ahmed\Desktop\YALIMS2\YALIMS\obj\Debug\net6.0-windows\YALIMS.pdb
+C:\Users\Ahmed\Desktop\YALIMS2\YALIMS\bin\Debug\net6.0-windows\YALIMS.exe
+C:\Users\Ahmed\Desktop\YALIMS2\YALIMS\bin\Debug\net6.0-windows\YALIMS.deps.json
+C:\Users\Ahmed\Desktop\YALIMS2\YALIMS\bin\Debug\net6.0-windows\YALIMS.runtimeconfig.json
+C:\Users\Ahmed\Desktop\YALIMS2\YALIMS\bin\Debug\net6.0-windows\YALIMS.dll
+C:\Users\Ahmed\Desktop\YALIMS2\YALIMS\bin\Debug\net6.0-windows\ref\YALIMS.dll
+C:\Users\Ahmed\Desktop\YALIMS2\YALIMS\bin\Debug\net6.0-windows\YALIMS.pdb
+C:\Users\Ahmed\Desktop\YALIMS2\YALIMS\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Ahmed\Desktop\YALIMS2\YALIMS\obj\Debug\net6.0-windows\YALIMS.csproj.CopyComplete
+C:\Users\Ahmed\Desktop\YALIMS2\YALIMS\obj\Debug\net6.0-windows\YALIMS.genruntimeconfig.cache
+C:\Users\ح\Desktop\collge shit\YEAR 3\مشاريع\مشروع التكامليه + المرئيه + اداره مشاريع\finallllllll\YALIMS2\YALIMS2\YALIMS\bin\Debug\net6.0-windows\YALIMS.exe
+C:\Users\ح\Desktop\collge shit\YEAR 3\مشاريع\مشروع التكامليه + المرئيه + اداره مشاريع\finallllllll\YALIMS2\YALIMS2\YALIMS\bin\Debug\net6.0-windows\YALIMS.deps.json
+C:\Users\ح\Desktop\collge shit\YEAR 3\مشاريع\مشروع التكامليه + المرئيه + اداره مشاريع\finallllllll\YALIMS2\YALIMS2\YALIMS\bin\Debug\net6.0-windows\YALIMS.runtimeconfig.json
+C:\Users\ح\Desktop\collge shit\YEAR 3\مشاريع\مشروع التكامليه + المرئيه + اداره مشاريع\finallllllll\YALIMS2\YALIMS2\YALIMS\bin\Debug\net6.0-windows\YALIMS.dll
+C:\Users\ح\Desktop\collge shit\YEAR 3\مشاريع\مشروع التكامليه + المرئيه + اداره مشاريع\finallllllll\YALIMS2\YALIMS2\YALIMS\bin\Debug\net6.0-windows\ref\YALIMS.dll
+C:\Users\ح\Desktop\collge shit\YEAR 3\مشاريع\مشروع التكامليه + المرئيه + اداره مشاريع\finallllllll\YALIMS2\YALIMS2\YALIMS\bin\Debug\net6.0-windows\YALIMS.pdb
+C:\Users\ح\Desktop\collge shit\YEAR 3\مشاريع\مشروع التكامليه + المرئيه + اداره مشاريع\finallllllll\YALIMS2\YALIMS2\YALIMS\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\ح\Desktop\collge shit\YEAR 3\مشاريع\مشروع التكامليه + المرئيه + اداره مشاريع\finallllllll\YALIMS2\YALIMS2\YALIMS\obj\Debug\net6.0-windows\YALIMS.csproj.AssemblyReference.cache
+C:\Users\ح\Desktop\collge shit\YEAR 3\مشاريع\مشروع التكامليه + المرئيه + اداره مشاريع\finallllllll\YALIMS2\YALIMS2\YALIMS\obj\Debug\net6.0-windows\YALIMS.Add_marks.resources
+C:\Users\ح\Desktop\collge shit\YEAR 3\مشاريع\مشروع التكامليه + المرئيه + اداره مشاريع\finallllllll\YALIMS2\YALIMS2\YALIMS\obj\Debug\net6.0-windows\YALIMS.admin_dashbord.resources
+C:\Users\ح\Desktop\collge shit\YEAR 3\مشاريع\مشروع التكامليه + المرئيه + اداره مشاريع\finallllllll\YALIMS2\YALIMS2\YALIMS\obj\Debug\net6.0-windows\YALIMS.LoginStudent.resources
+C:\Users\ح\Desktop\collge shit\YEAR 3\مشاريع\مشروع التكامليه + المرئيه + اداره مشاريع\finallllllll\YALIMS2\YALIMS2\YALIMS\obj\Debug\net6.0-windows\YALIMS.LoginAdmin.resources
+C:\Users\ح\Desktop\collge shit\YEAR 3\مشاريع\مشروع التكامليه + المرئيه + اداره مشاريع\finallllllll\YALIMS2\YALIMS2\YALIMS\obj\Debug\net6.0-windows\YALIMS.Manage_marks.resources
+C:\Users\ح\Desktop\collge shit\YEAR 3\مشاريع\مشروع التكامليه + المرئيه + اداره مشاريع\finallllllll\YALIMS2\YALIMS2\YALIMS\obj\Debug\net6.0-windows\YALIMS.Manage_students.resources
+C:\Users\ح\Desktop\collge shit\YEAR 3\مشاريع\مشروع التكامليه + المرئيه + اداره مشاريع\finallllllll\YALIMS2\YALIMS2\YALIMS\obj\Debug\net6.0-windows\YALIMS.Manage_teachers.resources
+C:\Users\ح\Desktop\collge shit\YEAR 3\مشاريع\مشروع التكامليه + المرئيه + اداره مشاريع\finallllllll\YALIMS2\YALIMS2\YALIMS\obj\Debug\net6.0-windows\YALIMS.Manage_users.resources
+C:\Users\ح\Desktop\collge shit\YEAR 3\مشاريع\مشروع التكامليه + المرئيه + اداره مشاريع\finallllllll\YALIMS2\YALIMS2\YALIMS\obj\Debug\net6.0-windows\YALIMS.Newstudent.resources
+C:\Users\ح\Desktop\collge shit\YEAR 3\مشاريع\مشروع التكامليه + المرئيه + اداره مشاريع\finallllllll\YALIMS2\YALIMS2\YALIMS\obj\Debug\net6.0-windows\YALIMS.New_teacher.resources
+C:\Users\ح\Desktop\collge shit\YEAR 3\مشاريع\مشروع التكامليه + المرئيه + اداره مشاريع\finallllllll\YALIMS2\YALIMS2\YALIMS\obj\Debug\net6.0-windows\YALIMS.New_user.resources
+C:\Users\ح\Desktop\collge shit\YEAR 3\مشاريع\مشروع التكامليه + المرئيه + اداره مشاريع\finallllllll\YALIMS2\YALIMS2\YALIMS\obj\Debug\net6.0-windows\YALIMS.Properties.Resources.resources
+C:\Users\ح\Desktop\collge shit\YEAR 3\مشاريع\مشروع التكامليه + المرئيه + اداره مشاريع\finallllllll\YALIMS2\YALIMS2\YALIMS\obj\Debug\net6.0-windows\YALIMS.SelectLogin.resources
+C:\Users\ح\Desktop\collge shit\YEAR 3\مشاريع\مشروع التكامليه + المرئيه + اداره مشاريع\finallllllll\YALIMS2\YALIMS2\YALIMS\obj\Debug\net6.0-windows\YALIMS.Student_Register.resources
+C:\Users\ح\Desktop\collge shit\YEAR 3\مشاريع\مشروع التكامليه + المرئيه + اداره مشاريع\finallllllll\YALIMS2\YALIMS2\YALIMS\obj\Debug\net6.0-windows\YALIMS.StudentDashbord.resources
+C:\Users\ح\Desktop\collge shit\YEAR 3\مشاريع\مشروع التكامليه + المرئيه + اداره مشاريع\finallllllll\YALIMS2\YALIMS2\YALIMS\obj\Debug\net6.0-windows\YALIMS.TeacherDashbord.resources
+C:\Users\ح\Desktop\collge shit\YEAR 3\مشاريع\مشروع التكامليه + المرئيه + اداره مشاريع\finallllllll\YALIMS2\YALIMS2\YALIMS\obj\Debug\net6.0-windows\YALIMS.csproj.GenerateResource.cache
+C:\Users\ح\Desktop\collge shit\YEAR 3\مشاريع\مشروع التكامليه + المرئيه + اداره مشاريع\finallllllll\YALIMS2\YALIMS2\YALIMS\obj\Debug\net6.0-windows\YALIMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ح\Desktop\collge shit\YEAR 3\مشاريع\مشروع التكامليه + المرئيه + اداره مشاريع\finallllllll\YALIMS2\YALIMS2\YALIMS\obj\Debug\net6.0-windows\YALIMS.AssemblyInfoInputs.cache
+C:\Users\ح\Desktop\collge shit\YEAR 3\مشاريع\مشروع التكامليه + المرئيه + اداره مشاريع\finallllllll\YALIMS2\YALIMS2\YALIMS\obj\Debug\net6.0-windows\YALIMS.AssemblyInfo.cs
+C:\Users\ح\Desktop\collge shit\YEAR 3\مشاريع\مشروع التكامليه + المرئيه + اداره مشاريع\finallllllll\YALIMS2\YALIMS2\YALIMS\obj\Debug\net6.0-windows\YALIMS.csproj.CoreCompileInputs.cache
+C:\Users\ح\Desktop\collge shit\YEAR 3\مشاريع\مشروع التكامليه + المرئيه + اداره مشاريع\finallllllll\YALIMS2\YALIMS2\YALIMS\obj\Debug\net6.0-windows\YALIMS.csproj.CopyComplete
+C:\Users\ح\Desktop\collge shit\YEAR 3\مشاريع\مشروع التكامليه + المرئيه + اداره مشاريع\finallllllll\YALIMS2\YALIMS2\YALIMS\obj\Debug\net6.0-windows\YALIMS.dll
+C:\Users\ح\Desktop\collge shit\YEAR 3\مشاريع\مشروع التكامليه + المرئيه + اداره مشاريع\finallllllll\YALIMS2\YALIMS2\YALIMS\obj\Debug\net6.0-windows\ref\YALIMS.dll
+C:\Users\ح\Desktop\collge shit\YEAR 3\مشاريع\مشروع التكامليه + المرئيه + اداره مشاريع\finallllllll\YALIMS2\YALIMS2\YALIMS\obj\Debug\net6.0-windows\YALIMS.pdb
+C:\Users\ح\Desktop\collge shit\YEAR 3\مشاريع\مشروع التكامليه + المرئيه + اداره مشاريع\finallllllll\YALIMS2\YALIMS2\YALIMS\obj\Debug\net6.0-windows\YALIMS.genruntimeconfig.cache
+D:\University\Projects\YALIMS\New folder\project c#\finallllllll\YALIMS2\YALIMS2\YALIMS\bin\Debug\net6.0-windows\YALIMS.exe
+D:\University\Projects\YALIMS\New folder\project c#\finallllllll\YALIMS2\YALIMS2\YALIMS\bin\Debug\net6.0-windows\YALIMS.deps.json
+D:\University\Projects\YALIMS\New folder\project c#\finallllllll\YALIMS2\YALIMS2\YALIMS\bin\Debug\net6.0-windows\YALIMS.runtimeconfig.json
+D:\University\Projects\YALIMS\New folder\project c#\finallllllll\YALIMS2\YALIMS2\YALIMS\bin\Debug\net6.0-windows\YALIMS.dll
+D:\University\Projects\YALIMS\New folder\project c#\finallllllll\YALIMS2\YALIMS2\YALIMS\bin\Debug\net6.0-windows\ref\YALIMS.dll
+D:\University\Projects\YALIMS\New folder\project c#\finallllllll\YALIMS2\YALIMS2\YALIMS\bin\Debug\net6.0-windows\YALIMS.pdb
+D:\University\Projects\YALIMS\New folder\project c#\finallllllll\YALIMS2\YALIMS2\YALIMS\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\University\Projects\YALIMS\New folder\project c#\finallllllll\YALIMS2\YALIMS2\YALIMS\obj\Debug\net6.0-windows\YALIMS.csproj.AssemblyReference.cache
+D:\University\Projects\YALIMS\New folder\project c#\finallllllll\YALIMS2\YALIMS2\YALIMS\obj\Debug\net6.0-windows\YALIMS.Add_marks.resources
+D:\University\Projects\YALIMS\New folder\project c#\finallllllll\YALIMS2\YALIMS2\YALIMS\obj\Debug\net6.0-windows\YALIMS.admin_dashbord.resources
+D:\University\Projects\YALIMS\New folder\project c#\finallllllll\YALIMS2\YALIMS2\YALIMS\obj\Debug\net6.0-windows\YALIMS.LoginStudent.resources
+D:\University\Projects\YALIMS\New folder\project c#\finallllllll\YALIMS2\YALIMS2\YALIMS\obj\Debug\net6.0-windows\YALIMS.LoginAdmin.resources
+D:\University\Projects\YALIMS\New folder\project c#\finallllllll\YALIMS2\YALIMS2\YALIMS\obj\Debug\net6.0-windows\YALIMS.Manage_marks.resources
+D:\University\Projects\YALIMS\New folder\project c#\finallllllll\YALIMS2\YALIMS2\YALIMS\obj\Debug\net6.0-windows\YALIMS.Manage_students.resources
+D:\University\Projects\YALIMS\New folder\project c#\finallllllll\YALIMS2\YALIMS2\YALIMS\obj\Debug\net6.0-windows\YALIMS.Manage_teachers.resources
+D:\University\Projects\YALIMS\New folder\project c#\finallllllll\YALIMS2\YALIMS2\YALIMS\obj\Debug\net6.0-windows\YALIMS.Manage_users.resources
+D:\University\Projects\YALIMS\New folder\project c#\finallllllll\YALIMS2\YALIMS2\YALIMS\obj\Debug\net6.0-windows\YALIMS.Newstudent.resources
+D:\University\Projects\YALIMS\New folder\project c#\finallllllll\YALIMS2\YALIMS2\YALIMS\obj\Debug\net6.0-windows\YALIMS.New_teacher.resources
+D:\University\Projects\YALIMS\New folder\project c#\finallllllll\YALIMS2\YALIMS2\YALIMS\obj\Debug\net6.0-windows\YALIMS.New_user.resources
+D:\University\Projects\YALIMS\New folder\project c#\finallllllll\YALIMS2\YALIMS2\YALIMS\obj\Debug\net6.0-windows\YALIMS.Properties.Resources.resources
+D:\University\Projects\YALIMS\New folder\project c#\finallllllll\YALIMS2\YALIMS2\YALIMS\obj\Debug\net6.0-windows\YALIMS.SelectLogin.resources
+D:\University\Projects\YALIMS\New folder\project c#\finallllllll\YALIMS2\YALIMS2\YALIMS\obj\Debug\net6.0-windows\YALIMS.Student_Register.resources
+D:\University\Projects\YALIMS\New folder\project c#\finallllllll\YALIMS2\YALIMS2\YALIMS\obj\Debug\net6.0-windows\YALIMS.StudentDashbord.resources
+D:\University\Projects\YALIMS\New folder\project c#\finallllllll\YALIMS2\YALIMS2\YALIMS\obj\Debug\net6.0-windows\YALIMS.TeacherDashbord.resources
+D:\University\Projects\YALIMS\New folder\project c#\finallllllll\YALIMS2\YALIMS2\YALIMS\obj\Debug\net6.0-windows\YALIMS.csproj.GenerateResource.cache
+D:\University\Projects\YALIMS\New folder\project c#\finallllllll\YALIMS2\YALIMS2\YALIMS\obj\Debug\net6.0-windows\YALIMS.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\Projects\YALIMS\New folder\project c#\finallllllll\YALIMS2\YALIMS2\YALIMS\obj\Debug\net6.0-windows\YALIMS.AssemblyInfoInputs.cache
+D:\University\Projects\YALIMS\New folder\project c#\finallllllll\YALIMS2\YALIMS2\YALIMS\obj\Debug\net6.0-windows\YALIMS.AssemblyInfo.cs
+D:\University\Projects\YALIMS\New folder\project c#\finallllllll\YALIMS2\YALIMS2\YALIMS\obj\Debug\net6.0-windows\YALIMS.csproj.CoreCompileInputs.cache
+D:\University\Projects\YALIMS\New folder\project c#\finallllllll\YALIMS2\YALIMS2\YALIMS\obj\Debug\net6.0-windows\YALIMS.csproj.CopyComplete
+D:\University\Projects\YALIMS\New folder\project c#\finallllllll\YALIMS2\YALIMS2\YALIMS\obj\Debug\net6.0-windows\YALIMS.dll
+D:\University\Projects\YALIMS\New folder\project c#\finallllllll\YALIMS2\YALIMS2\YALIMS\obj\Debug\net6.0-windows\ref\YALIMS.dll
+D:\University\Projects\YALIMS\New folder\project c#\finallllllll\YALIMS2\YALIMS2\YALIMS\obj\Debug\net6.0-windows\YALIMS.pdb
+D:\University\Projects\YALIMS\New folder\project c#\finallllllll\YALIMS2\YALIMS2\YALIMS\obj\Debug\net6.0-windows\YALIMS.genruntimeconfig.cache
